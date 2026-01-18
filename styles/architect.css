@@ -20,10 +20,16 @@ main>section{
     margin-top: 130px;
 }
 
+.section-title{
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
 /* shared style */
 .display-flex{
     display: flex;
 }
+
 
 /* dark 02 */
 .text-gray{
@@ -53,6 +59,8 @@ main>section{
     border-radius: 8px;
     border: none;
 }
+
+
 
 /* header style */
 header{
@@ -87,10 +95,6 @@ header{
    margin: 0 auto;
    /* border:2px solid red; */
 
-}
-
-.nav-links{
-   
 }
 
 /* banner related styles */
@@ -131,9 +135,7 @@ header{
     /* border: 2px solid rebeccapurple; */
 }
 
-.feature-title{
-    font-size: 2.8rem;
-}
+
 #quick-list{
     font-weight: 500;
 }
